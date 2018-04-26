@@ -1,2 +1,2 @@
 # Classi
-Document classifier API using SVM and TF-IDF
+Document classification API using SVM and TF-IDF
